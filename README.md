@@ -59,9 +59,10 @@ python3 -m venv venv
 source venv/bin/activate
 3. Install DependenciesBashpip install -r requirements.txt
 4. Run the ApplicationNavigate to the app folder (or wherever the main file is located) and run:Bashstreamlit run indian_streamlit_app.py
-
+```
 
 Author: 
 Daggolu Sai Mohith Reddy
 Mechanical Engineering Undergrad
 IIT Ropar 
+
