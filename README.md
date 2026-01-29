@@ -1,4 +1,8 @@
 # 📈 Alpha-Geeks: Indian Options Analytics & ML Engine
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)
+![Finance](https://img.shields.io/badge/Domain-Quantitative%20Finance-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
 **Alpha-Geeks** is a comprehensive quantitative finance tool designed specifically for the **Indian Derivatives Market (NSE)**. It combines advanced Black-Scholes pricing, interactive 3D volatility visualizations, and Machine Learning algorithms to analyze option sensitivities (Greeks) and detect market volatility regimes.
 
@@ -65,5 +69,6 @@ Author:
 - Daggolu Sai Mohith Reddy
 - Mechanical Engineering Undergrad
 - IIT Ropar 
+
 
 
