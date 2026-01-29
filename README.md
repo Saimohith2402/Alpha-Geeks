@@ -62,7 +62,8 @@ source venv/bin/activate
 ```
 
 Author: 
-Daggolu Sai Mohith Reddy
-Mechanical Engineering Undergrad
-IIT Ropar 
+- Daggolu Sai Mohith Reddy
+- Mechanical Engineering Undergrad
+- IIT Ropar 
+
 
